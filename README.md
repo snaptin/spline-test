@@ -8,7 +8,7 @@ You can [sign up for a Spline account here](https://app.spline.design/signin) fo
 
 The `zip/` and `zip-web` folders include our test code as it was exported from Spline:
 - `zip` is an ECMAScript app – you can test it on [this web page](https://snaptin.github.io/spline-test/zip/).
-- `zip-web` is a website –you can test it on [this web page](https://snaptin.github.io/spline-test/zip-web/).
+- `zip-web` is a website – you can test it on [this web page](https://snaptin.github.io/spline-test/zip-web/).
 
 Both folders includes the same design — only in a different format. The object you can see on the screen is an interactive 3D scene created with Spline that you can move around using the cursor. Visually speaking, it's a 3D candy letter.
 
