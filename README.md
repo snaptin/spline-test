@@ -1,8 +1,8 @@
 # Spline Tests
 
-This repo includes the tests used in [our article](https://webdesign.tutsplus.com) published on Tuts+ Web Design, which discusses how to improve the web performance of Spline scenes.
+This repo includes the tests used in [our article](https://webdesign.tutsplus.com/how-to-optimize-spline-3d-scenes-for-speed-and-core-web-vitals--cms-108749a) published on Tuts+ Web Design, which discusses how to improve the web performance of Spline scenes.
 
-You can [sign up for a Spline account here](https://app.spline.design/signin) for free. Or, you can [check out their homepage here](https://spline.design/).
+You can [sign up for a Spline account here](https://app.spline.design/signin) for free. Or, [check out Spline's homepage here](https://spline.design/).
 
 ## The Base Folders
 
@@ -34,6 +34,6 @@ Experiment 3 puts the `<canvas>` element into a `<div>` and adds inline `width` 
 
 You can test it [here](https://snaptin.github.io/spline-test/experiments/3/).
 
-## Recommended Testing Tools
+## Web Performance Auditing Tools We Used for the Tests
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) for local lab tests in the Chrome browser
 - [DebugBear](https://www.debugbear.com/test/website-speed) for remote lab tests and RUM (real user monitoring)
